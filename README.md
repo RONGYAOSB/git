@@ -1,6 +1,8 @@
 # git
 
-`D:\git` 本地仓库，已关联 GitHub 远端。
+`D:\git-repo` 本地仓库，已关联 GitHub 远端。
+
+> 注意：`D:\git` 是 **Git 安装目录**（`D:\git\Git\`），不是本项目目录，请勿混淆。
 
 ## 远端
 
